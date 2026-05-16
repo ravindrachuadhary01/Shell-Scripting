@@ -1,4 +1,4 @@
 #!/bin/bash
 # This script prints "Hello, World!" to the console.
 
-echo "Hello, World!!!!!!!" 
+echo "Hello, World this is my first script!" 
